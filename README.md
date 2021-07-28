@@ -1,2 +1,2 @@
 # RLmaze-HW-
-Reinforcement learning, Maze problem. (Asisgnment solution of Machin learning course at UNCC)
+Reinforcement learning for a Maze problem.
