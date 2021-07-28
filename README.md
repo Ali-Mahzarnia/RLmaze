@@ -1,2 +1,2 @@
 # RLmaze-HW-
-Assignment of Machine learning course at UNCC. Reinforcement learning, Maze problem.
+Reinforcement learning, Maze problem. (Asisgnment solution of Machin learning course at UNCC)
