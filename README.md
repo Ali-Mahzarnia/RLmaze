@@ -1,2 +1,2 @@
-# RLmaze-HW-
+# RLmaze
 Reinforcement learning for a Maze problem.
